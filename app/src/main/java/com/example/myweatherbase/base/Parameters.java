@@ -2,8 +2,8 @@ package com.example.myweatherbase.base;
 
 public class Parameters {
 
-    // Change the API KEY
-    public final static String API = "11beed541e7a0fd48076a05030a042ea";
+
+    public final static String API = "<put_your_API_Key_here>";
 
     public final static String LANG = "es";
     public final static String UNITS = "metric";
